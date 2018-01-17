@@ -77,33 +77,6 @@ class ChestXrayDataSet(Dataset):
         return image, torch.from_numpy(label).type(torch.FloatTensor), torch.from_numpy(weight).type(torch.FloatTensor)
     def __len__(self):
         return len(self.y)
-    
-train_dataset = ChestXrayDataSet(train_or_valid="train",
-                                    transform=transforms.Compose([
-                                        transforms.ToPILImage(),
-                                        transforms.RandomCrop(224),
-                                        transforms.RandomHorizontalFlip(),
-                                        transforms.ToTensor(),
-                                        transforms.Normalize([0.485, 0.456, 0.406],[0.229, 0.224, 0.225])
-                                        ]))
-augment_img = []
-augment_label = []
-augment_weight = []
-for i in range(4):
-    for j in range(len(train_dataset)):
-        single_img, single_label, single_weight = train_dataset[j]
-        augment_img.append(single_img)
-        augment_label.append(single_label)
-        augment_weight.append(single_weight)
-        if j % 1000==0:
-            print(j)
-
-# shuffe data
-perm_index = torch.randperm(len(augment_label))
-augment_img = torch.stack(augment_img)[perm_index]
-augment_label = torch.stack(augment_label)[perm_index]
-augment_weight = torch.stack(augment_weight)[perm_index]
-
 
 # construct model
 class DenseNet121(nn.Module):
@@ -125,92 +98,123 @@ class DenseNet121(nn.Module):
         return x
 
 
-# prepare validation set
-valid_dataset = ChestXrayDataSet(train_or_valid="valid",
+
+
+
+if __name__ == '__main__':
+
+	# prepare training set
+	train_dataset = ChestXrayDataSet(train_or_valid="train",
                                     transform=transforms.Compose([
                                         transforms.ToPILImage(),
-                                        transforms.CenterCrop(224),
+                                        transforms.RandomCrop(224),
+                                        transforms.RandomHorizontalFlip(),
                                         transforms.ToTensor(),
                                         transforms.Normalize([0.485, 0.456, 0.406],[0.229, 0.224, 0.225])
                                         ]))
+	augment_img = []
+	augment_label = []
+	augment_weight = []
+	for i in range(4):
+		for j in range(len(train_dataset)):
+			single_img, single_label, single_weight = train_dataset[j]
+			augment_img.append(single_img)
+			augment_label.append(single_label)
+			augment_weight.append(single_weight)
+			if j % 1000==0:
+		    	print(j)
+
+	# shuffe data
+	perm_index = torch.randperm(len(augment_label))
+	augment_img = torch.stack(augment_img)[perm_index]
+	augment_label = torch.stack(augment_label)[perm_index]
+	augment_weight = torch.stack(augment_weight)[perm_index]
+
+	# prepare validation set
+	valid_dataset = ChestXrayDataSet(train_or_valid="valid",
+					transform=transforms.Compose([
+							transforms.ToPILImage(),
+							transforms.CenterCrop(224),
+							transforms.ToTensor(),
+							transforms.Normalize([0.485, 0.456, 0.406],[0.229, 0.224, 0.225])
+							]))
 
 
-# ====== start trianing =======
+	# ====== start trianing =======
 
-cudnn.benchmark = True
-N_CLASSES = 8
-BATCH_SIZE = 64
+	cudnn.benchmark = True
+	N_CLASSES = 8
+	BATCH_SIZE = 64
 
-# initialize and load the model
-model = DenseNet121(N_CLASSES).cuda()
-model = torch.nn.DataParallel(model).cuda()
+	# initialize and load the model
+	model = DenseNet121(N_CLASSES).cuda()
+	model = torch.nn.DataParallel(model).cuda()
 
-optimizer = optim.Adam(model.parameters(),lr=0.0002, betas=(0.9, 0.999))
-total_length = len(augment_img)
-for epoch in range(10):  # loop over the dataset multiple times
-    print("Epoch:",epoch)
-    running_loss = 0.0
-    
-    # shuffle
-    perm_index = torch.randperm(len(augment_label))
-    augment_img = augment_img[perm_index]
-    augment_label = augment_label[perm_index]
-    augment_weight = augment_weight[perm_index]
-    
-    for index in range(0, total_length , BATCH_SIZE):
-        if index+BATCH_SIZE > total_length:
-            break
-        # zero the parameter gradients
-        optimizer.zero_grad()
-        inputs_sub = augment_img[index:index+BATCH_SIZE]
-        labels_sub = augment_label[index:index+BATCH_SIZE]
-        weights_sub = augment_weight[index:index+BATCH_SIZE]
-        inputs_sub, labels_sub = Variable(inputs_sub.cuda()), Variable(labels_sub.cuda())
-        weights_sub = Variable(weights_sub.cuda())
+	optimizer = optim.Adam(model.parameters(),lr=0.0002, betas=(0.9, 0.999))
+	total_length = len(augment_img)
+	for epoch in range(10):  # loop over the dataset multiple times
+		print("Epoch:",epoch)
+		running_loss = 0.0
 
-        # forward + backward + optimize
-        outputs = model(inputs_sub)
-        criterion = nn.BCELoss()
-        loss = criterion(outputs, labels_sub)
-        loss.backward()
-        optimizer.step()
-        running_loss += loss.data[0]
-    
-    
-    # ======== validation ======== 
-    # switch to evaluate mode
-    model.eval()
+		# shuffle
+		perm_index = torch.randperm(len(augment_label))
+		augment_img = augment_img[perm_index]
+		augment_label = augment_label[perm_index]
+		augment_weight = augment_weight[perm_index]
+
+		for index in range(0, total_length , BATCH_SIZE):
+			if index+BATCH_SIZE > total_length:
+				break
+			# zero the parameter gradients
+			optimizer.zero_grad()
+			inputs_sub = augment_img[index:index+BATCH_SIZE]
+			labels_sub = augment_label[index:index+BATCH_SIZE]
+			weights_sub = augment_weight[index:index+BATCH_SIZE]
+			inputs_sub, labels_sub = Variable(inputs_sub.cuda()), Variable(labels_sub.cuda())
+			weights_sub = Variable(weights_sub.cuda())
+
+			# forward + backward + optimize
+			outputs = model(inputs_sub)
+			criterion = nn.BCELoss()
+			loss = criterion(outputs, labels_sub)
+			loss.backward()
+			optimizer.step()
+			running_loss += loss.data[0]
 
 
-    # initialize the ground truth and output tensor
-    gt = torch.FloatTensor()
-    gt = gt.cuda()
-    pred = torch.FloatTensor()
-    pred = pred.cuda()
+		# ======== validation ======== 
+		# switch to evaluate mode
+		model.eval()
 
-    
-    for i, (inp, target, weight) in enumerate(valid_loader):
-        target = target.cuda()
-        gt = torch.cat((gt, target), 0)
-    #     bs, n_crops, c, h, w = inp.size()
-        input_var = Variable(inp.view(-1, 3, 224, 224).cuda(), volatile=True)
-        output = model(input_var)
-    #     output_mean = output.view(bs, n_crops, -1).mean(1)
-        pred = torch.cat((pred, output.data), 0)
-        
-    CLASS_NAMES = ['Atelectasis', 'Cardiomegaly','Effusion', 'Infiltration',
-                   'Mass','Nodule', 'Pneumonia', 'Pneumothorax']
 
-    AUROCs = compute_AUCs(gt, pred)
-    AUROC_avg = np.array(AUROCs).mean()
-    print('The average AUROC is {AUROC_avg:.3f}'.format(AUROC_avg=AUROC_avg))
-    for i in range(N_CLASSES):
-        print('The AUROC of {} is {}'.format(CLASS_NAMES[i], AUROCs[i]))
-    
-    model.train()
-    # print statistics
-    print('[%d] loss: %.3f' % (epoch + 1, running_loss / 715 ))
-    torch.save(model.state_dict(), 
-               'DenseNet121_aug4_pretrain_noWeight_'+str(epoch+1)+'_'+str(AUROC_avg)+'.pkl')
+		# initialize the ground truth and output tensor
+		gt = torch.FloatTensor()
+		gt = gt.cuda()
+		pred = torch.FloatTensor()
+		pred = pred.cuda()
 
-print('Finished Training')
+
+		for i, (inp, target, weight) in enumerate(valid_loader):
+			target = target.cuda()
+			gt = torch.cat((gt, target), 0)
+			#     bs, n_crops, c, h, w = inp.size()
+			input_var = Variable(inp.view(-1, 3, 224, 224).cuda(), volatile=True)
+			output = model(input_var)
+			#     output_mean = output.view(bs, n_crops, -1).mean(1)
+			pred = torch.cat((pred, output.data), 0)
+
+		CLASS_NAMES = ['Atelectasis', 'Cardiomegaly','Effusion', 'Infiltration',
+						'Mass','Nodule', 'Pneumonia', 'Pneumothorax']
+
+		AUROCs = compute_AUCs(gt, pred)
+		AUROC_avg = np.array(AUROCs).mean()
+		print('The average AUROC is {AUROC_avg:.3f}'.format(AUROC_avg=AUROC_avg))
+		for i in range(N_CLASSES):
+		    print('The AUROC of {} is {}'.format(CLASS_NAMES[i], AUROCs[i]))
+
+		model.train()
+		# print statistics
+		print('[%d] loss: %.3f' % (epoch + 1, running_loss / 715 ))
+		torch.save(model.state_dict(),'DenseNet121_aug4_pretrain_noWeight_'+str(epoch+1)+'_'+str(AUROC_avg)+'.pkl')
+
+	print('Finished Training')
