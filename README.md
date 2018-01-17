@@ -18,9 +18,17 @@ training:
 python3 train.py [path of preprocessed output (folder)]
 ```
 
-testing:
+local testing:
 ```
 python3 denseNet_localization.py [path to test.txt] [path of images folder]
+```
+
+DeepQueue testing:
+
+1) upload **deepQ_82.zip** to the platform
+2)
+```
+python3 inference.py
 ```
 
 
