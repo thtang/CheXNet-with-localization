@@ -1,6 +1,6 @@
 import numpy as np
+from os import listdir
 import skimage.transform
-import judger_medical as judger
 import torch
 from torch.utils.data import Dataset, DataLoader
 from torch.nn import functional as F
@@ -17,9 +17,20 @@ import cv2
 import sys
 import os
 import pickle
-from os import listdir
 from collections import defaultdict
 from collections import OrderedDict
+
+import skimage
+from skimage.io import *
+from skimage.transform import *
+
+import scipy
+import scipy.ndimage as ndimage
+import scipy.ndimage.filters as filters
+from scipy.ndimage import binary_dilation
+import matplotlib.patches as patches
+
+os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 
 test_txt_path = sys.argv[1]
 img_folder_path = sys.argv[2]
@@ -30,6 +41,7 @@ with open(test_txt_path, "r") as f:
 print("number of test examples:",len(test_list))
 
 test_X = []
+print("load and transform image")
 for i in range(len(test_list)):
     image_path = os.path.join(img_folder_path, test_list[i])
     img = scipy.misc.imread(image_path)
@@ -44,22 +56,22 @@ test_X = np.array(test_X)
 # model archi
 # construct model
 class DenseNet121(nn.Module):
-    """Model modified.
-    The architecture of our model is the same as standard DenseNet121
-    except the classifier layer which has an additional sigmoid function.
-    """
-    def __init__(self, out_size):
-        super(DenseNet121, self).__init__()
-        self.densenet121 = torchvision.models.densenet121(pretrained=False)
-        num_ftrs = self.densenet121.classifier.in_features
-        self.densenet121.classifier = nn.Sequential(
-            nn.Linear(num_ftrs, out_size),
-            nn.Sigmoid()
-        )
+	"""Model modified.
+	The architecture of our model is the same as standard DenseNet121
+	except the classifier layer which has an additional sigmoid function.
+	"""
+	def __init__(self, out_size):
+		super(DenseNet121, self).__init__()
+		self.densenet121 = torchvision.models.densenet121(pretrained=False)
+		num_ftrs = self.densenet121.classifier.in_features
+		self.densenet121.classifier = nn.Sequential(
+		    nn.Linear(num_ftrs, out_size),
+		    nn.Sigmoid()
+		)
 
-    def forward(self, x):
-        x = self.densenet121(x)
-        return x
+	def forward(self, x):
+		x = self.densenet121(x)
+		return x
 
 model = DenseNet121(8).cuda()
 model = torch.nn.DataParallel(model)
@@ -70,26 +82,24 @@ print("model loaded")
 
 # build test dataset
 class ChestXrayDataSet_plot(Dataset):
-    def __init__(self, input_X = test_X, transform=None):
+	def __init__(self, input_X = test_X, transform=None):
+		self.X = np.uint8(test_X*255)
+		self.transform = transform
 
-    	self.X = np.uint8(test_X*255)
-        self.transform = transform
+	def __getitem__(self, index):
+		"""
+		Args:
+		    index: the index of item 
+		Returns:
+		    image 
+		"""
+		current_X = np.tile(self.X[index],3)
+		image = self.transform(current_X)
+		return image
+	def __len__(self):
+		return len(self.X)
 
-    def __getitem__(self, index):
-        """
-        Args:
-            index: the index of item 
-        Returns:
-            image 
-        """
-        current_X = np.tile(self.X[index],3)
-        image = self.transform(current_X)
-        return image
-    def __len__(self):
-        return len(self.X)
-
-test_dataset = ChestXrayDataSet_plot(input_X = test_X,
-                                    transform=transforms.Compose([
+test_dataset = ChestXrayDataSet_plot(input_X = test_X,transform=transforms.Compose([
                                         transforms.ToPILImage(),
                                         transforms.CenterCrop(224),
                                         transforms.ToTensor(),
@@ -97,8 +107,9 @@ test_dataset = ChestXrayDataSet_plot(input_X = test_X,
                                         ]))
 
 thresholds = np.load("thresholds.npy")
-print(thresholds)
+print("activate threshold",thresholds)
 
+print("generate heatmap ..........")
 # ======= Grad CAM Function =========
 class PropagationBase(object):
 
@@ -189,24 +200,6 @@ class GradCAM(PropagationBase):
         cv2.imwrite(filename, np.uint8(gcam))
 
 
-class BackPropagation(PropagationBase):
-
-    def _set_hook_func(self):
-
-        def func_b(module, grad_in, grad_out):
-            self.all_grads[id(module)] = grad_in[0].cpu()
-
-        for module in self.model.named_modules():
-            module[1].register_backward_hook(func_b)
-
-    def generate(self):
-        output = self.image.grad.data.cpu().numpy()[0]
-        return output.transpose(1, 2, 0)
-
-    def save(self, filename, data):
-        abs_max = np.maximum(-1 * data.min(), data.max())
-        data = data / abs_max * 127.0 + 127.0
-        cv2.imwrite(filename, np.uint8(data))
 
 
 # ======== Create heatmap ===========
@@ -228,6 +221,7 @@ for index in range(len(test_dataset)):
         heatmap_output.append(output)
         image_id.append(index)
         output_class.append(activate_class)
+    print("test ",str(index)," finish")
 print("heatmap output done")
 # ======= Plot bounding box =========
 
@@ -243,11 +237,6 @@ avg_size = np.array([[411.8, 512.5, 219.0, 139.1], [348.5, 392.3, 479.8, 381.1],
                      [434.3, 366.7, 168.7, 189.8], [502.4, 458.7, 71.9, 70.4],
                      [378.7, 416.7, 276.5, 304.5], [369.3, 209.4, 198.9, 246.0]])
 
-# npy_list = os.listdir(sys.argv[1])
-
-# with open('test.txt', 'r') as f:
-#     fname_list = f.readlines()
-#     fname_list = [s.strip('\n') for s in fname_list]
 
 prediction_dict = {}
 for i in range(len(imgs)):
@@ -288,7 +277,7 @@ for img_id, k, npy in zip(image_id, output_class, heatmap_output):
         if data[int(pt[0]), int(pt[1])] > np.max(data)*.9:
             upper = int(max(pt[0]-(h_k/2), 0.))
             left = int(max(pt[1]-(w_k/2), 0.))
-        	
+
             right = int(min(left+w_k, img_width))
             lower = int(min(upper+h_k, img_height))
             
@@ -298,14 +287,15 @@ for img_id, k, npy in zip(image_id, output_class, heatmap_output):
                                                                           (lower-upper)*rescale_factor)
             
             prediction_dict[img_id].append(prediction_sent)
-            
+
 with open("bounding_box.txt","w") as f:
 	for i in range(len(prediction_dict)):
-	    fname = imgs[i]
-	    prediction = prediction_dict[i]
-	    
-	    print(fname, len(prediction))
-	    f.write('%s %d\n' % (fname, len(prediction))
-	    for p in prediction:
-	        print(p)
-	        f.write(p+"\n")
+		fname = imgs[i]
+		prediction = prediction_dict[i]
+
+		print(fname, len(prediction))
+		f.write('%s %d\n' % (fname, len(prediction)))
+
+		for p in prediction:
+			print(p)
+			f.write(p+"\n")
