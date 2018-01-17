@@ -227,8 +227,8 @@ for index in range(len(test_dataset)):
 
 print("heatmap output done")
 print("total number of heatmap: ",len(heatmap_output))
-# ======= Plot bounding box =========
 
+# ======= Plot bounding box =========
 img_width, img_height = 224, 224
 img_width_exp, img_height_exp = 1024, 1024
 
