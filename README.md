@@ -32,4 +32,4 @@ import os
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ```
 ### result :
-[!Alt text](https://github.com/thtang/CheXNet-with-localization/blob/master/bb_select.JPG)
+![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/bb_select.JPG)
