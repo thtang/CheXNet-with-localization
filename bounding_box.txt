@@ -1,0 +1,2500 @@
+../images/00028628_015.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+../images/00006736_000.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 64.0 216.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 472.0 68.0 68.0
+Nodule 348.0 884.0 68.0 68.0
+../images/00015770_010.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 192.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 388.0 196.0 244.0
+../images/00013310_057.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 492.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 360.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 512.0 196.0 244.0
+../images/00007551_020.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 448.0 476.0 380.0
+../images/00004342_050.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 736.0 436.0 224.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 488.0 236.0 292.0 296.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 280.0 384.0 196.0 244.0
+../images/00020482_032.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 352.0 276.0 304.0
+../images/00009683_005.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 224.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 484.0 276.0 304.0
+../images/00007710_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 64.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 844.0 168.0 116.0
+../images/00014198_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 852.0 216.0 108.0
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 544.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 216.0 68.0 68.0
+../images/00020751_003.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 440.0 216.0 136.0
+../images/00017346_000.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Nodule 502.4 458.7 71.9 70.4
+Nodule 600.0 732.0 68.0 68.0
+../images/00017124_004.png 9
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 144.0 728.0 476.0 232.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 220.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 772.0 292.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 488.0 276.0 304.0
+../images/00007735_018.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 192.0 476.0 380.0
+../images/00025529_018.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 92.0 220.0 316.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 604.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 360.0 276.0 304.0
+../images/00011831_008.png 2
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 260.0 196.0 244.0
+../images/00008008_027.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 852.0 216.0 108.0
+Mass 434.3 366.7 168.7 189.8
+Mass 556.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 68.0 880.0 68.0 68.0
+../images/00009705_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 440.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 676.0 64.0 284.0 380.0
+../images/00029808_003.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 316.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 556.0 284.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 516.0 196.0 244.0
+../images/00002980_000.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 772.0 292.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 480.0 276.0 304.0
+../images/00012174_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 608.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00007444_003.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 308.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 844.0 168.0 116.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 728.0 728.0 68.0 68.0
+../images/00014014_013.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 824.0 168.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 260.0 196.0 244.0
+../images/00004344_014.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 320.0 476.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 68.0 880.0 68.0 68.0
+../images/00029259_027.png 8
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 92.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 428.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 344.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 280.0 812.0 196.0 148.0
+../images/00014253_010.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 608.0 276.0 304.0
+../images/00019706_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 564.0 216.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 640.0 196.0 244.0
+../images/00002059_008.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 652.0 316.0 216.0 136.0
+../images/00018063_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 676.0 64.0 284.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 244.0 232.0 276.0 304.0
+../images/00000150_002.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 352.0 220.0 316.0
+../images/00018980_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 396.0 444.0 216.0 136.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 480.0 276.0 304.0
+../images/00019013_002.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 552.0 156.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 348.0 68.0 68.0
+../images/00013992_006.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 728.0 476.0 232.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 228.0 276.0 304.0
+../images/00007034_016.png 3
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 96.0 276.0 304.0
+../images/00012291_008.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 404.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 220.0 220.0 316.0
+../images/00019154_002.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 564.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00021818_026.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 604.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 104.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 224.0 276.0 304.0
+../images/00021860_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 568.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 192.0 432.0 380.0
+../images/00028285_014.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 352.0 220.0 316.0
+../images/00011814_031.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 108.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 540.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 132.0 196.0 244.0
+../images/00030323_015.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 396.0 444.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 64.0 436.0 380.0
+Cardiomegaly 528.0 316.0 432.0 380.0
+../images/00015064_001.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 848.0 216.0 112.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 572.0 476.0 380.0
+../images/00012975_003.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+../images/00000744_006.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 572.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 172.0 416.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 132.0 196.0 244.0
+../images/00019271_064.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 404.0 700.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+../images/00020259_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 396.0 572.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 64.0 476.0 380.0
+../images/00025969_000.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 180.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 444.0 432.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 224.0 276.0 304.0
+../images/00020274_007.png 8
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 288.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 344.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 668.0 640.0 196.0 244.0
+../images/00015831_011.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 572.0 216.0 136.0
+../images/00009368_006.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00030434_000.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 148.0 700.0 216.0 136.0
+../images/00013721_005.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00025732_004.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 444.0 476.0 380.0
+../images/00026889_000.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 188.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 544.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 412.0 132.0 196.0 244.0
+../images/00010092_018.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 444.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 140.0 64.0 476.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 68.0 880.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 640.0 196.0 244.0
+../images/00011237_094.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 220.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 360.0 276.0 304.0
+../images/00015440_000.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 92.0 220.0 316.0
+../images/00012973_005.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 156.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 216.0 68.0 68.0
+../images/00023116_005.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 852.0 216.0 108.0
+Infiltration 394.5 389.1 294.0 297.4
+../images/00008365_000.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 192.0 476.0 380.0
+../images/00020673_005.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 180.0 216.0 136.0
+../images/00019917_004.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 396.0 852.0 216.0 108.0
+../images/00025252_040.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 360.0 292.0 296.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 640.0 196.0 244.0
+../images/00028518_012.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 220.0 220.0 316.0
+../images/00019863_010.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 92.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 828.0 168.0 132.0
+../images/00011557_003.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 700.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 316.0 476.0 380.0
+../images/00010828_023.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 348.0 220.0 316.0
+../images/00021321_002.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 652.0 308.0 216.0 136.0
+../images/00013337_000.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 352.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00018387_030.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00029464_006.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 308.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 220.0 220.0 316.0
+../images/00011502_001.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 316.0 436.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 900.0 68.0 60.0
+../images/00022961_008.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 224.0 220.0 316.0
+../images/00008554_009.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00019625_002.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 224.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 224.0 276.0 304.0
+../images/00029469_007.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 788.0 292.0 172.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 360.0 276.0 304.0
+../images/00013993_013.png 1
+Atelectasis 411.8 512.5 219.0 139.1
+../images/00019124_006.png 5
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 476.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 260.0 196.0 244.0
+../images/00029404_004.png 3
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 608.0 276.0 304.0
+../images/00013031_005.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 788.0 292.0 172.0
+../images/00017893_005.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 444.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+../images/00015719_005.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 476.0 220.0 316.0
+../images/00012364_045.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 612.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 352.0 276.0 304.0
+../images/00029431_000.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 616.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 352.0 276.0 304.0
+Pneumonia 624.0 480.0 276.0 304.0
+../images/00022977_000.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 772.0 492.0 188.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 296.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 344.0 68.0 68.0
+../images/00020277_001.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 224.0 220.0 316.0
+../images/00025270_000.png 3
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 356.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+../images/00016291_019.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 572.0 436.0 380.0
+../images/00025252_032.png 2
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 640.0 196.0 244.0
+../images/00018393_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 672.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 604.0 600.0 68.0 68.0
+../images/00026087_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 848.0 216.0 112.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 320.0 476.0 380.0
+../images/00020408_058.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 788.0 292.0 172.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 224.0 276.0 304.0
+../images/00018686_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 64.0 436.0 380.0
+Cardiomegaly 524.0 188.0 436.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 92.0 220.0 316.0
+../images/00026848_007.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 616.0 292.0 296.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 640.0 196.0 244.0
+../images/00022098_006.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 700.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 220.0 220.0 316.0
+../images/00017257_001.png 2
+Mass 434.3 366.7 168.7 189.8
+Mass 552.0 288.0 168.0 188.0
+../images/00026285_000.png 1
+Atelectasis 411.8 512.5 219.0 139.1
+../images/00027213_044.png 2
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 260.0 196.0 244.0
+../images/00023058_004.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 808.0 848.0 152.0 112.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 348.0 220.0 316.0
+../images/00029464_003.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 436.0 216.0 136.0
+../images/00017714_009.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 352.0 276.0 304.0
+../images/00012636_000.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 656.0 852.0 216.0 108.0
+Nodule 502.4 458.7 71.9 70.4
+../images/00015304_001.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 356.0 276.0 304.0
+../images/00002176_005.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Mass 434.3 366.7 168.7 189.8
+Mass 168.0 540.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 604.0 884.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 412.0 384.0 196.0 244.0
+../images/00015400_001.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+../images/00022611_001.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 348.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 344.0 348.0 68.0 68.0
+../images/00001534_005.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+../images/00020438_011.png 7
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 728.0 476.0 232.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 360.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 356.0 276.0 304.0
+../images/00016184_040.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 224.0 220.0 316.0
+Effusion 144.0 352.0 220.0 316.0
+../images/00008814_010.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 92.0 220.0 316.0
+../images/00004296_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 868.0 216.0 92.0
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 728.0 476.0 68.0 68.0
+../images/00022470_006.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 620.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 344.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 616.0 276.0 304.0
+../images/00015141_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 472.0 68.0 68.0
+../images/00004911_018.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 224.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00006821_002.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 476.0 220.0 316.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 64.0 68.0 68.0
+../images/00010103_014.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 352.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00001900_026.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 348.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 516.0 196.0 244.0
+../images/00020146_005.png 2
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 384.0 196.0 244.0
+../images/00028628_020.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 96.0 220.0 316.0
+../images/00015425_012.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+../images/00030634_000.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 64.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 64.0 64.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 888.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 100.0 276.0 304.0
+../images/00027817_001.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 512.0 196.0 244.0
+../images/00010652_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 692.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 96.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 640.0 196.0 244.0
+../images/00028876_035.png 8
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 320.0 436.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 296.0 416.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 220.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 640.0 196.0 244.0
+../images/00009107_006.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 652.0 440.0 216.0 136.0
+../images/00029039_020.png 8
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 236.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 100.0 276.0 304.0
+Pneumonia 628.0 360.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 260.0 196.0 244.0
+../images/00010447_018.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 440.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 224.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 840.0 168.0 120.0
+../images/00017236_075.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 100.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 356.0 276.0 304.0
+../images/00014177_009.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Mass 434.3 366.7 168.7 189.8
+Mass 684.0 64.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 388.0 196.0 244.0
+Pneumothorax 152.0 640.0 196.0 244.0
+../images/00021374_000.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 604.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 104.0 276.0 304.0
+../images/00013391_005.png 10
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 64.0 436.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 604.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 360.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 896.0 68.0 64.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 232.0 276.0 304.0
+../images/00010767_016.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 476.0 220.0 316.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 904.0 68.0 56.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 132.0 196.0 244.0
+../images/00014731_028.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 320.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 680.0 416.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 728.0 348.0 68.0 68.0
+../images/00000732_005.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 484.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 832.0 64.0 128.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 384.0 196.0 244.0
+../images/00026538_034.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 224.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 104.0 292.0 296.0
+../images/00011322_006.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 316.0 476.0 380.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 260.0 196.0 244.0
+../images/00020332_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 852.0 216.0 108.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 600.0 896.0 68.0 64.0
+../images/00016064_010.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 608.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 548.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 220.0 68.0 68.0
+../images/00003440_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 548.0 288.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 216.0 68.0 68.0
+../images/00013051_000.png 12
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 692.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 92.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 620.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 296.0 540.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 476.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 360.0 276.0 304.0
+../images/00000149_006.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 528.0 64.0 216.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 260.0 196.0 244.0
+../images/00026911_005.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 220.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 288.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 884.0 68.0 68.0
+../images/00027685_003.png 9
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 92.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 364.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 356.0 276.0 304.0
+../images/00018984_000.png 7
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 360.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 884.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 352.0 276.0 304.0
+../images/00029532_005.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 812.0 180.0 148.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 640.0 196.0 244.0
+../images/00005532_016.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 316.0 476.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 64.0 64.0 276.0 304.0
+../images/00017511_006.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 448.0 476.0 380.0
+../images/00014706_007.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 188.0 476.0 380.0
+../images/00028027_000.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 448.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 676.0 284.0 168.0 188.0
+../images/00007124_008.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 220.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 820.0 168.0 140.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 884.0 68.0 68.0
+../images/00012021_081.png 7
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 360.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 352.0 276.0 304.0
+Pneumonia 624.0 608.0 276.0 304.0
+../images/00022369_013.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 96.0 220.0 316.0
+../images/00013674_000.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 604.0 220.0 316.0
+../images/00028607_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 148.0 852.0 216.0 108.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 192.0 436.0 380.0
+../images/00016267_000.png 2
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 364.0 292.0 296.0
+../images/00010007_168.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 320.0 436.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 96.0 220.0 316.0
+../images/00029088_023.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 64.0 100.0 292.0 296.0
+../images/00027837_001.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 656.0 696.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 364.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 360.0 276.0 304.0
+../images/00026695_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 672.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 344.0 68.0 68.0
+../images/00016414_000.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 188.0 476.0 380.0
+../images/00014607_007.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 568.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 552.0 64.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 600.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 488.0 276.0 304.0
+../images/00021481_014.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 140.0 316.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 92.0 220.0 316.0
+../images/00016705_006.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 488.0 236.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 224.0 276.0 304.0
+Pneumonia 624.0 480.0 276.0 304.0
+../images/00004808_090.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 236.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 224.0 276.0 304.0
+../images/00018412_001.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 700.0 216.0 136.0
+../images/00004344_018.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 192.0 436.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 360.0 276.0 304.0
+../images/00017028_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 284.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 604.0 732.0 68.0 68.0
+../images/00027093_002.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 348.0 220.0 316.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 220.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 804.0 196.0 156.0
+../images/00029588_004.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 352.0 220.0 316.0
+../images/00027937_004.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 172.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 600.0 728.0 68.0 68.0
+../images/00003148_004.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 572.0 216.0 136.0
+Atelectasis 268.0 852.0 216.0 108.0
+../images/00027556_007.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 620.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 344.0 216.0 68.0 68.0
+../images/00007629_001.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 64.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 144.0 320.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 476.0 220.0 316.0
+../images/00021420_014.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 236.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 480.0 276.0 304.0
+../images/00006621_004.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 220.0 220.0 316.0
+../images/00027577_003.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 348.0 220.0 316.0
+../images/00013750_016.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 232.0 276.0 304.0
+../images/00023325_019.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 532.0 440.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 140.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 604.0 220.0 316.0
+../images/00019766_023.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 852.0 216.0 108.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 96.0 220.0 316.0
+../images/00018319_001.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 532.0 436.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 836.0 672.0 124.0 188.0
+../images/00002711_000.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 484.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 352.0 276.0 304.0
+../images/00013111_069.png 4
+Nodule 502.4 458.7 71.9 70.4
+Nodule 600.0 884.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 256.0 196.0 244.0
+../images/00011576_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 64.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 348.0 68.0 68.0
+../images/00022141_030.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 480.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 556.0 64.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 728.0 600.0 68.0 68.0
+../images/00009779_001.png 8
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 108.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 216.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 64.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 256.0 196.0 244.0
+../images/00022707_003.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 224.0 220.0 316.0
+../images/00012834_008.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 484.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 64.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 232.0 276.0 304.0
+../images/00025662_006.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 472.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 96.0 276.0 304.0
+../images/00002106_000.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 92.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 412.0 168.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 480.0 276.0 304.0
+../images/00027479_013.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 808.0 64.0 152.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 620.0 236.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 244.0 224.0 276.0 304.0
+Pneumonia 496.0 224.0 276.0 304.0
+../images/00012892_010.png 5
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 416.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 220.0 68.0 68.0
+Nodule 884.0 728.0 68.0 68.0
+../images/00026132_016.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 772.0 292.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 228.0 276.0 304.0
+../images/00028628_008.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 96.0 220.0 316.0
+../images/00017214_015.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Mass 434.3 366.7 168.7 189.8
+Mass 552.0 412.0 168.0 188.0
+../images/00014004_038.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 180.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 484.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 232.0 276.0 304.0
+../images/00027113_002.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 476.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+../images/00004822_051.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 312.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 736.0 476.0 224.0
+../images/00007830_013.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 348.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 832.0 64.0 128.0 188.0
+../images/00026398_000.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 680.0 320.0 280.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 232.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+../images/00003064_035.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 476.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 608.0 276.0 304.0
+../images/00015799_012.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 224.0 220.0 316.0
+Effusion 144.0 604.0 220.0 316.0
+../images/00028640_003.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 652.0 436.0 216.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 260.0 196.0 244.0
+../images/00030260_005.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 532.0 312.0 216.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 644.0 196.0 244.0
+../images/00028876_027.png 6
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 64.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 472.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 384.0 196.0 244.0
+../images/00029940_007.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 220.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 352.0 276.0 304.0
+../images/00016937_014.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 284.0 168.0 188.0
+../images/00023078_003.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 852.0 216.0 108.0
+../images/00019499_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 832.0 820.0 128.0 140.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 600.0 68.0 68.0
+../images/00019271_030.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 568.0 216.0 136.0
+../images/00019018_007.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 612.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 360.0 276.0 304.0
+../images/00019924_020.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 96.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 760.0 292.0 200.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 360.0 276.0 304.0
+../images/00013249_033.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 64.0 768.0 292.0 192.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 768.0 276.0 192.0
+../images/00030394_001.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+Effusion 140.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 476.0 68.0 68.0
+../images/00013670_151.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 364.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 484.0 276.0 304.0
+../images/00021670_004.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 680.0 316.0 280.0 380.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 352.0 276.0 304.0
+../images/00021409_001.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 528.0 184.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 316.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 92.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 824.0 168.0 136.0
+../images/00020318_022.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 852.0 216.0 108.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 388.0 196.0 244.0
+../images/00000211_041.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 144.0 320.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 244.0 96.0 276.0 304.0
+../images/00009342_000.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+../images/00014626_017.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 96.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 408.0 644.0 196.0 244.0
+../images/00016837_002.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 856.0 216.0 104.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 96.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 352.0 276.0 304.0
+../images/00025368_018.png 8
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 356.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 104.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 384.0 196.0 244.0
+../images/00022726_002.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 676.0 416.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 472.0 68.0 68.0
+../images/00012670_000.png 9
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 92.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 788.0 292.0 172.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 608.0 276.0 304.0
+../images/00028861_009.png 3
+Nodule 502.4 458.7 71.9 70.4
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 516.0 196.0 244.0
+../images/00012175_008.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 96.0 220.0 316.0
+../images/00012288_000.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 192.0 476.0 380.0
+../images/00001555_002.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 492.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 216.0 68.0 68.0
+../images/00019373_036.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 92.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 296.0 544.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 348.0 68.0 68.0
+../images/00018623_001.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 416.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 604.0 344.0 68.0 68.0
+../images/00022178_000.png 8
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 236.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 684.0 284.0 168.0 188.0
+Mass 292.0 672.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 260.0 196.0 244.0
+../images/00004344_046.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 192.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 228.0 276.0 304.0
+../images/00019765_010.png 8
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 352.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 64.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 600.0 476.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 608.0 276.0 304.0
+../images/00023176_017.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 308.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 64.0 476.0 380.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 256.0 196.0 244.0
+../images/00014617_003.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 360.0 276.0 304.0
+../images/00011023_004.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 64.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 548.0 824.0 168.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 640.0 196.0 244.0
+../images/00000468_041.png 7
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 64.0 432.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 232.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 244.0 232.0 276.0 304.0
+../images/00005066_005.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 396.0 308.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 572.0 476.0 380.0
+../images/00016009_008.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 892.0 68.0 68.0
+../images/00019750_012.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 96.0 220.0 316.0
+../images/00020564_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 440.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 616.0 276.0 304.0
+../images/00028452_001.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 444.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 96.0 220.0 316.0
+../images/00013062_002.png 9
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 444.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 64.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 344.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 132.0 196.0 244.0
+../images/00008716_000.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 444.0 432.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 892.0 68.0 68.0
+../images/00023283_005.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 224.0 220.0 316.0
+Effusion 652.0 476.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 644.0 196.0 244.0
+../images/00012741_004.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 232.0 276.0 304.0
+../images/00016587_069.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 440.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 156.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 604.0 884.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 100.0 276.0 304.0
+../images/00013659_019.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 428.0 156.0 168.0 188.0
+../images/00009256_005.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 92.0 220.0 316.0
+../images/00003149_007.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 220.0 220.0 316.0
+../images/00028509_007.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 140.0 316.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 352.0 220.0 316.0
+Effusion 652.0 352.0 220.0 316.0
+../images/00019124_090.png 5
+Mass 434.3 366.7 168.7 189.8
+Mass 296.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 388.0 196.0 244.0
+../images/00020857_008.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 568.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 824.0 168.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 668.0 512.0 196.0 244.0
+../images/00019651_002.png 2
+Mass 434.3 366.7 168.7 189.8
+Mass 676.0 288.0 168.0 188.0
+../images/00018693_004.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 320.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 224.0 220.0 316.0
+../images/00007037_000.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 444.0 476.0 380.0
+../images/00018253_059.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 220.0 220.0 316.0
+../images/00027278_007.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 148.0 444.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 480.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 416.0 168.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 480.0 276.0 304.0
+../images/00003391_001.png 11
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 360.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 832.0 820.0 128.0 140.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 732.0 732.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 360.0 276.0 304.0
+Pneumonia 240.0 608.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 64.0 196.0 244.0
+../images/00019634_004.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 676.0 288.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 348.0 68.0 68.0
+../images/00021420_027.png 7
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 64.0 64.0 476.0 380.0
+Cardiomegaly 676.0 64.0 284.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 356.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 608.0 276.0 304.0
+../images/00015262_005.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 220.0 220.0 316.0
+../images/00000756_001.png 10
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 568.0 216.0 136.0
+Atelectasis 140.0 852.0 216.0 108.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 540.0 168.0 188.0
+Mass 164.0 840.0 168.0 120.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 260.0 196.0 244.0
+../images/00012364_006.png 9
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 64.0 432.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 224.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 64.0 488.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 232.0 276.0 304.0
+../images/00021860_003.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+../images/00017670_005.png 9
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 64.0 436.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 492.0 292.0 296.0
+Infiltration 232.0 780.0 292.0 180.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 244.0 480.0 276.0 304.0
+../images/00003945_004.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 856.0 216.0 104.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 384.0 196.0 244.0
+../images/00028625_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 92.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 412.0 644.0 196.0 244.0
+../images/00000740_000.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 444.0 216.0 136.0
+../images/00013635_002.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 604.0 220.0 316.0
+../images/00016606_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 396.0 564.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 736.0 432.0 224.0
+../images/00011925_072.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 64.0 604.0 220.0 316.0
+Effusion 656.0 604.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 416.0 168.0 188.0
+../images/00017137_016.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 96.0 220.0 316.0
+Effusion 656.0 476.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 824.0 168.0 136.0
+../images/00006836_002.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 220.0 220.0 316.0
+../images/00015069_001.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 144.0 64.0 476.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 408.0 388.0 196.0 244.0
+../images/00025252_053.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 736.0 476.0 224.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 352.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 516.0 196.0 244.0
+../images/00009166_004.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 852.0 216.0 108.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 732.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 820.0 644.0 140.0 244.0
+../images/00023156_001.png 2
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 408.0 260.0 196.0 244.0
+../images/00016964_011.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 96.0 220.0 316.0
+../images/00021201_010.png 12
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 528.0 184.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 444.0 432.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 224.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 360.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 676.0 288.0 168.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 480.0 276.0 304.0
+../images/00030111_007.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 608.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 408.0 64.0 196.0 244.0
+../images/00014551_010.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 440.0 216.0 136.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 484.0 276.0 304.0
+Pneumonia 624.0 612.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 256.0 196.0 244.0
+../images/00012045_009.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 224.0 220.0 316.0
+../images/00003333_002.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 144.0 448.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 820.0 168.0 140.0
+../images/00025228_007.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00030162_026.png 4
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 472.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 516.0 196.0 244.0
+../images/00030128_002.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 224.0 220.0 316.0
+../images/00015792_005.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 672.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 600.0 344.0 68.0 68.0
+../images/00010071_008.png 2
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 280.0 512.0 196.0 244.0
+../images/00019157_008.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 348.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 488.0 108.0 292.0 296.0
+../images/00005567_000.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 656.0 348.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 360.0 276.0 304.0
+../images/00019089_004.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 692.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 772.0 292.0 188.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 416.0 168.0 188.0
+../images/00014663_013.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 732.0 476.0 68.0 68.0
+../images/00016522_023.png 6
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 612.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 360.0 276.0 304.0
+Pneumonia 112.0 480.0 276.0 304.0
+../images/00017714_006.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 488.0 276.0 304.0
+../images/00020810_003.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 852.0 216.0 108.0
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 476.0 68.0 68.0
+../images/00011583_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 868.0 216.0 92.0
+Mass 434.3 366.7 168.7 189.8
+Mass 428.0 824.0 168.0 136.0
+../images/00013471_029.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 476.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 64.0 100.0 292.0 296.0
+../images/00013993_077.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 184.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 352.0 220.0 316.0
+../images/00007676_002.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 860.0 216.0 100.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 828.0 168.0 132.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 668.0 128.0 196.0 244.0
+Pneumothorax 152.0 516.0 196.0 244.0
+../images/00004342_020.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 444.0 476.0 380.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 64.0 360.0 276.0 304.0
+../images/00010478_012.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 728.0 476.0 232.0
+../images/00018253_017.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 348.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 64.0 276.0 304.0
+../images/00022237_002.png 7
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 728.0 476.0 232.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 236.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 360.0 276.0 304.0
+../images/00012686_003.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 224.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00001369_000.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+../images/00000845_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 700.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+../images/00013187_002.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 444.0 216.0 136.0
+../images/00012261_001.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+../images/00026221_001.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 836.0 668.0 124.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 476.0 68.0 68.0
+../images/00010815_006.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 288.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 644.0 196.0 244.0
+../images/00017255_001.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 572.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 236.0 292.0 296.0
+../images/00012094_006.png 3
+Mass 434.3 366.7 168.7 189.8
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 384.0 196.0 244.0
+../images/00005089_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 444.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 772.0 292.0 188.0
+../images/00010828_039.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 348.0 220.0 316.0
+../images/00022215_012.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 568.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 348.0 220.0 316.0
+../images/00021772_011.png 10
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 224.0 220.0 316.0
+Effusion 656.0 476.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 488.0 772.0 292.0 188.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 348.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 480.0 276.0 304.0
+../images/00028330_003.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 660.0 568.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 172.0 416.0 168.0 188.0
+../images/00013993_083.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Mass 434.3 366.7 168.7 189.8
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 100.0 276.0 304.0
+Pneumonia 624.0 232.0 276.0 304.0
+../images/00025228_005.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 144.0 568.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 320.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 220.0 220.0 316.0
+../images/00021181_002.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 884.0 220.0 68.0 68.0
+../images/00021796_000.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 96.0 220.0 316.0
+../images/00005869_001.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+../images/00005532_022.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+../images/00021711_014.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 224.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00002435_005.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 64.0 476.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 884.0 68.0 68.0
+../images/00030260_004.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+../images/00000643_002.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 356.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 484.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 256.0 196.0 244.0
+../images/00019861_010.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 92.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 480.0 276.0 304.0
+../images/00014626_035.png 7
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 320.0 436.0 380.0
+Cardiomegaly 396.0 572.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 556.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 348.0 68.0 68.0
+../images/00018427_004.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 572.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 352.0 220.0 316.0
+../images/00022084_000.png 7
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 620.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 732.0 344.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 616.0 276.0 304.0
+../images/00011263_004.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 320.0 432.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 352.0 276.0 304.0
+../images/00013922_022.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 440.0 216.0 136.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 236.0 292.0 296.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 640.0 196.0 244.0
+../images/00011463_002.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 444.0 476.0 380.0
+../images/00011925_077.png 7
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 108.0 292.0 296.0
+Infiltration 232.0 616.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 352.0 276.0 304.0
+Pneumonia 116.0 360.0 276.0 304.0
+../images/00010770_000.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 92.0 220.0 316.0
+../images/00026338_003.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+../images/00012021_054.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 92.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 232.0 276.0 304.0
+../images/00030635_001.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 148.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 96.0 220.0 316.0
+../images/00009889_018.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Nodule 502.4 458.7 71.9 70.4
+Nodule 344.0 472.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 516.0 196.0 244.0
+../images/00016786_001.png 9
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 620.0 108.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 300.0 284.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 216.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 384.0 196.0 244.0
+Pneumothorax 540.0 640.0 196.0 244.0
+../images/00016191_017.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 528.0 852.0 216.0 108.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 356.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 232.0 276.0 304.0
+../images/00027357_014.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 64.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 352.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 232.0 276.0 304.0
+../images/00015530_147.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 64.0 216.0 136.0
+../images/00013118_008.png 7
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 476.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 476.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 488.0 276.0 304.0
+../images/00001836_082.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 436.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 824.0 168.0 136.0
+../images/00017448_000.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 96.0 220.0 316.0
+../images/00014177_010.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 360.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 516.0 196.0 244.0
+../images/00000344_003.png 10
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 92.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 236.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 548.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 896.0 68.0 64.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 412.0 644.0 196.0 244.0
+../images/00001170_046.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 256.0 196.0 244.0
+../images/00006304_060.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 404.0 700.0 216.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 732.0 348.0 68.0 68.0
+../images/00016564_000.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+../images/00020124_003.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 444.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 344.0 68.0 68.0
+../images/00012505_007.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+Effusion 272.0 220.0 220.0 316.0
+../images/00021967_000.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 92.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 620.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 232.0 276.0 304.0
+../images/00017243_010.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 556.0 160.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 472.0 68.0 68.0
+../images/00030606_006.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 852.0 216.0 108.0
+Mass 434.3 366.7 168.7 189.8
+Mass 168.0 64.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 388.0 196.0 244.0
+../images/00016987_019.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 224.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 772.0 356.0 188.0 296.0
+../images/00027474_005.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 864.0 216.0 96.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 284.0 132.0 196.0 244.0
+../images/00025787_039.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 224.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 104.0 228.0 292.0 296.0
+../images/00019271_065.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 528.0 860.0 216.0 100.0
+../images/00026920_000.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 404.0 440.0 216.0 136.0
+../images/00020000_000.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 164.0 832.0 168.0 128.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 260.0 196.0 244.0
+../images/00028454_016.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 220.0 220.0 316.0
+../images/00018360_035.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 700.0 216.0 136.0
+Mass 434.3 366.7 168.7 189.8
+Mass 420.0 836.0 168.0 124.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 344.0 68.0 68.0
+../images/00022416_048.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 220.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 624.0 96.0 276.0 304.0
+../images/00026261_001.png 2
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 412.0 168.0 188.0
+../images/00028774_047.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+../images/00022416_049.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 96.0 220.0 316.0
+../images/00014095_003.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 220.0 220.0 316.0
+../images/00017952_008.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 604.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 108.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 224.0 276.0 304.0
+../images/00010625_014.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 524.0 312.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+../images/00008727_009.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 772.0 484.0 188.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 884.0 68.0 68.0
+../images/00029469_011.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 488.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 352.0 276.0 304.0
+../images/00003528_024.png 2
+Mass 434.3 366.7 168.7 189.8
+Mass 684.0 412.0 168.0 188.0
+../images/00012415_002.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 812.0 440.0 148.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 268.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 836.0 416.0 124.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 668.0 384.0 196.0 244.0
+../images/00020405_041.png 4
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 280.0 132.0 196.0 244.0
+../images/00004342_023.png 2
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 316.0 476.0 380.0
+../images/00022572_087.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 316.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 64.0 220.0 316.0
+../images/00000865_006.png 1
+Atelectasis 411.8 512.5 219.0 139.1
+../images/00012834_034.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 96.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 64.0 484.0 276.0 304.0
+Pneumonia 780.0 488.0 180.0 304.0
+../images/00010230_001.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 244.0 356.0 276.0 304.0
+Pneumonia 240.0 608.0 276.0 304.0
+../images/00020408_037.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 360.0 276.0 304.0
+../images/00000830_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 276.0 312.0 216.0 136.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 388.0 196.0 244.0
+../images/00003803_010.png 7
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 348.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 228.0 276.0 304.0
+../images/00021489_013.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 852.0 216.0 108.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 92.0 220.0 316.0
+../images/00017403_006.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 232.0 620.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 352.0 276.0 304.0
+../images/00004344_013.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 400.0 852.0 216.0 108.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 772.0 292.0 188.0
+../images/00001039_005.png 2
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 404.0 184.0 216.0 136.0
+../images/00029502_006.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 268.0 568.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 224.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00018721_010.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 852.0 216.0 108.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 360.0 276.0 304.0
+../images/00028012_001.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 144.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 96.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 424.0 824.0 168.0 136.0
+../images/00021179_011.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 416.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 220.0 344.0 68.0 68.0
+../images/00021024_022.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 192.0 432.0 380.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 116.0 480.0 276.0 304.0
+../images/00019706_012.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 440.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 528.0 608.0 220.0 316.0
+../images/00015732_020.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 224.0 220.0 316.0
+../images/00000377_004.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 316.0 476.0 380.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 64.0 344.0 68.0 68.0
+../images/00027631_000.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 476.0 220.0 316.0
+../images/00027797_000.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 444.0 436.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 836.0 284.0 124.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 540.0 388.0 196.0 244.0
+../images/00011514_015.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 772.0 292.0 188.0
+../images/00011355_011.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 836.0 544.0 124.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 256.0 196.0 244.0
+../images/00021458_000.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 488.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 496.0 228.0 276.0 304.0
+../images/00020318_007.png 9
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 184.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 272.0 64.0 476.0 380.0
+Mass 434.3 366.7 168.7 189.8
+Mass 168.0 64.0 168.0 188.0
+Mass 292.0 284.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 260.0 196.0 244.0
+../images/00016624_000.png 8
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 64.0 432.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 236.0 228.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 156.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 412.0 256.0 196.0 244.0
+../images/00026136_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 444.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 92.0 220.0 316.0
+../images/00027875_005.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 64.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00009608_037.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 528.0 64.0 432.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 492.0 292.0 296.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 484.0 276.0 304.0
+../images/00012141_013.png 4
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 220.0 220.0 316.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 492.0 356.0 292.0 296.0
+../images/00000468_017.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 788.0 292.0 172.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 372.0 228.0 276.0 304.0
+../images/00002395_007.png 6
+Effusion 396.5 415.8 221.6 318.0
+Effusion 140.0 348.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 228.0 276.0 304.0
+../images/00021782_028.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 220.0 220.0 316.0
+../images/00012592_005.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 96.0 220.0 316.0
+../images/00030206_013.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 64.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 272.0 96.0 220.0 316.0
+../images/00025747_000.png 4
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 524.0 444.0 436.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 108.0 232.0 292.0 296.0
+../images/00018496_007.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 480.0 220.0 316.0
+../images/00011355_027.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 64.0 168.0 188.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 536.0 512.0 196.0 244.0
+../images/00025252_054.png 2
+Nodule 502.4 458.7 71.9 70.4
+Nodule 604.0 476.0 68.0 68.0
+../images/00000211_010.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 268.0 192.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 524.0 92.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Mass 64.0 820.0 168.0 140.0
+../images/00016417_008.png 5
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 352.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 156.0 132.0 196.0 244.0
+../images/00017098_003.png 5
+Atelectasis 411.8 512.5 219.0 139.1
+Mass 434.3 366.7 168.7 189.8
+Mass 684.0 284.0 168.0 188.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 348.0 472.0 68.0 68.0
+../images/00020113_017.png 2
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 224.0 220.0 316.0
+../images/00000181_061.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 480.0 220.0 316.0
+../images/00006948_002.png 3
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 352.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00004893_085.png 3
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 64.0 476.0 380.0
+../images/00012094_011.png 4
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 228.0 292.0 296.0
+Mass 434.3 366.7 168.7 189.8
+Mass 832.0 64.0 128.0 188.0
+../images/00020819_002.png 5
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 188.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 220.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+../images/00010575_002.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 140.0 692.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 476.0 220.0 316.0
+../images/00001946_029.png 8
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 64.0 768.0 292.0 192.0
+Mass 434.3 366.7 168.7 189.8
+Mass 292.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 600.0 68.0 68.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 628.0 768.0 276.0 192.0
+../images/00010125_004.png 7
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 316.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 396.0 96.0 220.0 316.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 664.0 388.0 196.0 244.0
+../images/00018187_034.png 6
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 400.0 64.0 476.0 380.0
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 364.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 240.0 360.0 276.0 304.0
+../images/00027697_001.png 7
+Effusion 396.5 415.8 221.6 318.0
+Effusion 652.0 348.0 220.0 316.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 476.0 344.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 280.0 128.0 196.0 244.0
+../images/00015794_000.png 4
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 656.0 564.0 216.0 136.0
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 192.0 476.0 380.0
+../images/00001787_008.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 360.0 360.0 292.0 296.0
+Nodule 502.4 458.7 71.9 70.4
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 112.0 96.0 276.0 304.0
+../images/00012123_001.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Cardiomegaly 348.5 392.3 479.8 381.1
+Cardiomegaly 396.0 320.0 476.0 380.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 144.0 96.0 220.0 316.0
+Effusion 268.0 476.0 220.0 316.0
+../images/00018657_003.png 8
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 272.0 440.0 216.0 136.0
+Effusion 396.5 415.8 221.6 318.0
+Effusion 400.0 64.0 220.0 316.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 368.0 480.0 276.0 304.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 412.0 796.0 196.0 164.0
+../images/00027103_001.png 5
+Infiltration 394.5 389.1 294.0 297.4
+Infiltration 616.0 488.0 292.0 296.0
+Infiltration 616.0 772.0 292.0 188.0
+Pneumonia 378.7 416.7 276.5 304.5
+Pneumonia 500.0 608.0 276.0 304.0
+../images/00016094_007.png 4
+Mass 434.3 366.7 168.7 189.8
+Mass 172.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 216.0 348.0 68.0 68.0
+../images/00021007_000.png 6
+Atelectasis 411.8 512.5 219.0 139.1
+Atelectasis 64.0 848.0 216.0 112.0
+Atelectasis 808.0 848.0 152.0 112.0
+Mass 434.3 366.7 168.7 189.8
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 220.0 68.0 68.0
+../images/00015583_000.png 6
+Mass 434.3 366.7 168.7 189.8
+Mass 168.0 824.0 168.0 136.0
+Nodule 502.4 458.7 71.9 70.4
+Nodule 472.0 472.0 68.0 68.0
+Pneumothorax 369.3 209.4 198.9 246.0
+Pneumothorax 152.0 64.0 196.0 244.0

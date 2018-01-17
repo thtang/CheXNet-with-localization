@@ -213,16 +213,20 @@ for index in range(len(test_dataset)):
     input_img = Variable((test_dataset[index]).unsqueeze(0).cuda(), requires_grad=True)
     probs = gcam.forward(input_img)
 
-    activate_classes = np.where((probs > thresholds)[0]==True)[0]
+    activate_classes = np.where((probs > thresholds)[0]==True)[0] # get the activated class
     for activate_class in activate_classes:
         gcam.backward(idx=activate_class)
         output = gcam.generate(target_layer="module.densenet121.features.denseblock4.denselayer16.conv.2")
         #### this output is heatmap ####
+        if np.sum(np.isnan(output)) > 0:
+            print("fxxx nan")
         heatmap_output.append(output)
         image_id.append(index)
         output_class.append(activate_class)
-    print("test ",str(index)," finish")
+    print("test ",str(index)," finished")
+
 print("heatmap output done")
+print("total number of heatmap: ",len(heatmap_output))
 # ======= Plot bounding box =========
 
 img_width, img_height = 224, 224
@@ -239,14 +243,13 @@ avg_size = np.array([[411.8, 512.5, 219.0, 139.1], [348.5, 392.3, 479.8, 381.1],
 
 
 prediction_dict = {}
-for i in range(len(imgs)):
+for i in range(len(test_list)):
     prediction_dict[i] = []
 
 for img_id, k, npy in zip(image_id, output_class, heatmap_output):
     
     data = npy
-    img_fname = imgs[img_id]
-    
+    img_fname = test_list[img_id]
 
     # output avgerge
     prediction_sent = '%s %.1f %.1f %.1f %.1f' % (class_index[k], avg_size[k][0], avg_size[k][1], avg_size[k][2], avg_size[k][3])
@@ -290,11 +293,11 @@ for img_id, k, npy in zip(image_id, output_class, heatmap_output):
 
 with open("bounding_box.txt","w") as f:
 	for i in range(len(prediction_dict)):
-		fname = imgs[i]
+		fname = test_list[i]
 		prediction = prediction_dict[i]
 
-		print(fname, len(prediction))
-		f.write('%s %d\n' % (fname, len(prediction)))
+		print(os.path.join(img_folder_path, fname), len(prediction))
+		f.write('%s %d\n' % (os.path.join(img_folder_path, fname), len(prediction)))
 
 		for p in prediction:
 			print(p)
