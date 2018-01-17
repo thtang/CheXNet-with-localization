@@ -8,22 +8,22 @@ Team:XD
 `Pytorch` &nbsp; `torchvision` &nbsp;` matplotlib`  &nbsp;` sklearn-image` &nbsp;
 
 ### usage:
-preprocessing:
+1) preprocessing:
 ```
 python3 preprocessing.py [path of images folder] [path to data_entry] [path to bbox_list_path] [path to train_txt] [path to valid_txt] [path of preprocessed output (folder)]
 ```
 
-training:
+2) training:
 ```
 python3 train.py [path of preprocessed output (folder)]
 ```
 
-local testing:
+3) local testing:
 ```
 python3 denseNet_localization.py [path to test.txt] [path of images folder]
 ```
 
-DeepQueue testing:
+4) DeepQueue testing:
 
 upload **deepQ_82.zip** to the platform. Then use following command:
 ```
