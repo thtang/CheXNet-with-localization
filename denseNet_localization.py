@@ -62,7 +62,7 @@ class DenseNet121(nn.Module):
 	"""
 	def __init__(self, out_size):
 		super(DenseNet121, self).__init__()
-		self.densenet121 = torchvision.models.densenet121(pretrained=False)
+		self.densenet121 = torchvision.models.densenet121(pretrained=True)
 		num_ftrs = self.densenet121.classifier.in_features
 		self.densenet121.classifier = nn.Sequential(
 		    nn.Linear(num_ftrs, out_size),
@@ -75,7 +75,7 @@ class DenseNet121(nn.Module):
 
 model = DenseNet121(8).cuda()
 model = torch.nn.DataParallel(model)
-model.load_state_dict(torch.load("DenseNet121_Weight_10_0.763946843085.pkl"))
+model.load_state_dict(torch.load("DenseNet121_aug4_pretrain_WeightBelow1_1_0.819765749532.pkl"))
 print("model loaded")
 
 
