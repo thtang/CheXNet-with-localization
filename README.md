@@ -1,6 +1,9 @@
 # CheXNet-with-localization
 ADLxMLDS 2017 fall final
 
+### Package : 
+`Pytorch` &nbsp; `torchvision` &nbsp;` matplotlib`  &nbsp;` sklearn-image` &nbsp;
+
 ### usage:
 
 ```
