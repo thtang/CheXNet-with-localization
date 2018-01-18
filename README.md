@@ -49,8 +49,8 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ```
 ### Result :
 *Prediction*
-![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png)
+<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png" width="480">
 *Heatmap*
-![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/heatmap_per_class.JPG)
+![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/heatmap_per_class.jpg)
 *Bounding Box*
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/bb_select.JPG)
