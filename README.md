@@ -3,7 +3,7 @@ ADLxMLDS 2017 fall final
 
 Team:XD
 
-黃晴(R06922014),王思傑(R06922019),曹爗文(R06922022),傅敏桓(R06922030),湯忠憲(R06946003)
+*黃晴(R06922014), 王思傑(R06922019), 曹爗文(R06922022), 傅敏桓(R06922030), 湯忠憲(R06946003)*
 ### Package : 
 `Pytorch==0.2.0` &nbsp; `torchvision==0.2.0` &nbsp;` matplotlib`  &nbsp;` scikit-image==0.13.1` &nbsp;` opencv_python==3.4.0.12` &nbsp;` numpy==1.13.3` &nbsp;`matplotlib==2.1.1` &nbsp;`scipy==1.0.0` &nbsp;
 
