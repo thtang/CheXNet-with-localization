@@ -25,7 +25,7 @@ python3 denseNet_localization.py [path to test.txt] [path of images folder]
 
 4) DeepQueue testing:
 
-upload **deepQ_82.zip** to the platform. Then use following command:
+upload **deepQ_25.zip** to the platform. Then use following command:
 ```
 python3 inference.py
 ```
