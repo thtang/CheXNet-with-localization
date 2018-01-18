@@ -48,8 +48,8 @@ import os
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ```
 ### Result :
-*Prediction*
-<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png" width="480">
+*Prediction*<br>
+<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png" width="240"><br>
 *Heatmap*
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/heatmap_per_class.jpg)
 *Bounding Box*
