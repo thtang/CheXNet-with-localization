@@ -5,9 +5,15 @@ Team:XD
 
 黃晴(R06922014),王思傑(R06922019),曹爗文(R06922022),傅敏桓(R06922030),湯忠憲(R06946003)
 ### Package : 
-`Pytorch` &nbsp; `torchvision` &nbsp;` matplotlib`  &nbsp;` sklearn-image` &nbsp;
+`Pytorch==0.2.0` &nbsp; `torchvision==0.2.0` &nbsp;` matplotlib`  &nbsp;` scikit-image==0.13.1` &nbsp;` opencv_python==3.4.0.12` &nbsp;` numpy==1.13.3` &nbsp;`matplotlib==2.1.1` &nbsp;`scipy==1.0.0` &nbsp;
 
-### usage:
+### Environment:
+* OS: Linux
+* Python 3.5
+* GPU: 1080 ti
+* CPU: Xeon(R) E5-2667 v4
+* RAM: 500 GB
+### Experiments process:
 1) preprocessing:
 ```
 python3 preprocessing.py [path of images folder] [path to data_entry] [path to bbox_list_path] [path to train_txt] [path to valid_txt] [path of preprocessed output (folder)]
