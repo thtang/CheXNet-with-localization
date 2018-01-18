@@ -44,5 +44,5 @@ In our .py script, I used the following script to assign the task running on GPU
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ```
-### result :
+### Result :
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/bb_select.JPG)
