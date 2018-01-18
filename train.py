@@ -2,7 +2,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset, DataLoader
 from PIL import Image
-import os
+import os, sys
 import pickle
 from collections import defaultdict
 from sklearn.preprocessing import MultiLabelBinarizer
@@ -32,7 +32,7 @@ def compute_AUCs(gt, pred):
 class ChestXrayDataSet(Dataset):
     def __init__(self, train_or_valid = "train", transform=None):
 
-        data_path = sys.arg[1]
+        data_path = sys.argv[1]
         self.train_or_valid = train_or_valid
         if train_or_valid == "train":
             self.X = np.uint8(np.load(data_path + "train_X_small.npy")*255*255)
@@ -113,7 +113,7 @@ if __name__ == '__main__':
 			augment_label.append(single_label)
 			augment_weight.append(single_weight)
 			if j % 1000==0:
-		    	print(j)
+				print(j)
 
 	# shuffe data
 	perm_index = torch.randperm(len(augment_label))
