@@ -8,7 +8,7 @@ Team:XD
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png)
 
 ### Package : 
-`Pytorch==0.2.0` &nbsp; `torchvision==0.2.0` &nbsp;` matplotlib`  &nbsp;` scikit-image==0.13.1` &nbsp;` opencv_python==3.4.0.12` &nbsp;` numpy==1.13.3` &nbsp;`matplotlib==2.1.1` &nbsp;`scipy==1.0.0` &nbsp;
+`Pytorch==0.2.0` &nbsp; `torchvision==0.2.0` &nbsp;` matplotlib`  &nbsp;` scikit-image==0.13.1` &nbsp;` opencv_python==3.4.0.12` &nbsp;` numpy==1.13.3` &nbsp;`matplotlib==2.1.1` &nbsp;`scipy==1.0.0` &nbsp; `sklearn==0.19.1` &nbsp;
 
 ### Environment:
 * OS: Linux
