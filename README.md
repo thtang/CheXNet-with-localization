@@ -50,7 +50,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ### Result :
 *Prediction*<br>
 <img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png" width="240"><br>
-*Heatmap*
+*Heatmap per disease*
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/heatmap_per_class.jpg)
-*Bounding Box*
+*Bounding Box per patient*
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/bb_select.JPG)
