@@ -19,16 +19,7 @@ import matplotlib.pyplot as plt
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 
 def compute_AUCs(gt, pred):
-    """Computes Area Under the Curve (AUC) from prediction scores.
-    Args:
-        gt: Pytorch tensor on GPU, shape = [n_samples, n_classes]
-          true binary labels.
-        pred: Pytorch tensor on GPU, shape = [n_samples, n_classes]
-          can either be probability estimates of the positive class,
-          confidence values, or binary decisions.
-    Returns:
-        List of AUROCs of all classes.
-    """
+	
     AUROCs = []
     gt_np = gt.cpu().numpy()
     pred_np = pred.cpu().numpy()
