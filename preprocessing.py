@@ -36,9 +36,9 @@ train_X = []
 for i in range(len(train_list)):
     image_path = os.path.join(image_folder_path,train_list[i])
     img = imageio.imread(image_path)
-    if img.shape != (1024,1024):
+    if img.shape != (1024,1024): # there some image with shape (1024,1024,4) in training set
         img = img[:,:,0]
-    img_resized = skimage.transform.resize(img,(256,256))
+    img_resized = skimage.transform.resize(img,(256,256)) # or use img[::4] here
     train_X.append((np.array(img_resized)/255).reshape(256,256,1))
     if i % 3000==0:
         print(i)
