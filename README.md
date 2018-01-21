@@ -4,7 +4,7 @@ ADLxMLDS 2017 fall final
 Team:XD
 
 *黃晴 (R06922014), 王思傑 (R06922019), 曹爗文 (R06922022), 傅敏桓 (R06922030), 湯忠憲 (R06946003)*
-### Weakly supervised localization :
+## Weakly supervised localization :
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png)
 
 ### Package : 
