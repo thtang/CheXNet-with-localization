@@ -49,7 +49,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ```
 ### Result :
 *Prediction*<br>
-<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png" width="240"><br>
+<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/prediction.png" width="320"><br>
 *Heatmap per disease*
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/heatmap_per_class.jpg)
 Visualization of some heat maps with its ground-truth label (red) and its prediction
