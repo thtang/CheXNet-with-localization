@@ -5,8 +5,12 @@ Team:XD
 
 *黃晴 (R06922014), 王思傑 (R06922019), 曹爗文 (R06922022), 傅敏桓 (R06922030), 湯忠憲 (R06946003)*
 ## Weakly supervised localization :
+In this task, we have to plot bounding boxs for each disease finding in a single chest X-ray without goundtruth (X,Y,width,height) in training set. The workflow is shown below:
+### Workflow :
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png)
-
+1) Predict findings
+2) Use the classifier to plot heatmap (Grad-CAM)
+3) plot the bounding box base on Grad-CAM
 ### Package : 
 `Pytorch==0.2.0` &nbsp; `torchvision==0.2.0` &nbsp;` matplotlib`  &nbsp;` scikit-image==0.13.1` &nbsp;` opencv_python==3.4.0.12` &nbsp;` numpy==1.13.3` &nbsp;`matplotlib==2.1.1` &nbsp;`scipy==1.0.0` &nbsp; `sklearn==0.19.1` &nbsp;
 
