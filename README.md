@@ -10,14 +10,14 @@ In this task, we have to plot bounding boxes for each disease finding in a singl
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png)
 1) Predict findings
 2) Use the classifier to plot heatmap (Grad-CAM)
-3) plot the bounding box base on Grad-CAM
+3) Plot the bounding box base on Grad-CAM
 ### Package : 
 `Pytorch==0.2.0` &nbsp; `torchvision==0.2.0` &nbsp;` matplotlib`  &nbsp;` scikit-image==0.13.1` &nbsp;` opencv_python==3.4.0.12` &nbsp;` numpy==1.13.3` &nbsp;`matplotlib==2.1.1` &nbsp;`scipy==1.0.0` &nbsp; `sklearn==0.19.1` &nbsp;
 
 ### Environment:
 * OS: Linux
 * Python 3.5
-* GPU: 1080 ti
+* GPU: 1080 Ti
 * CPU: Xeon(R) E5-2667 v4
 * RAM: 500 GB
 ### Experiments process:
