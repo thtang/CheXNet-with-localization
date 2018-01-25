@@ -49,7 +49,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 ```
 ### Model :
 ![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/multi_label_denseNet.png)
-* Image is modified from Ref[2].
+* Image is modified from Ref [2].
 
 ### Result :
 *Prediction*<br>
