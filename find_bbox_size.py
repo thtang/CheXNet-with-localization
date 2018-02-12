@@ -7,6 +7,9 @@
 # <id> is the order of each validation image (in valid.txt)
 # <class> is the disease class in alphabetical order (0-7)
 
+# Available .npy files (heatmaps) can be download at:
+# https://drive.google.com/file/d/1A-FUIfnBkBqvxtncNRYtOLgVgZUOZIl_/view
+
 import numpy as np
 import pandas as pd
 import sys, os
@@ -23,7 +26,8 @@ crop_del, rescale_factor = 16, 4
 
 class_names = ['Atelectasis', 'Cardiomegaly', 'Effusion', 'Infiltration', 'Mass', 'Nodule', 'Pneumonia', 'Pneumothorax']
 intensity_th = [0.85, 0.50, 0.70, 0.70, 0.85, 0.80, 0.70, 0.70]
-# heuristic threshold: all started from 1.00, decreasing by 0.05 each time to find proper threshold value
+# heuristic threshold: all started from 1.00, tuned by 0.05 each time to find better threshold value
+# we use some statistics of validation data for tuning, but not directly as input
 
 x_avg = np.zeros(8)
 y_avg = np.zeros(8)
