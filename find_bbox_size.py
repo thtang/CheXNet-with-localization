@@ -19,15 +19,11 @@ import scipy.ndimage as ndimage
 import scipy.ndimage.filters as filters
 from scipy.ndimage import binary_dilation
 
-valid_filename_path = 'valid.txt'
-valid_img_dir = 'images/' 
-
 crop_del, rescale_factor = 16, 4
 
 class_names = ['Atelectasis', 'Cardiomegaly', 'Effusion', 'Infiltration', 'Mass', 'Nodule', 'Pneumonia', 'Pneumothorax']
 intensity_th = [0.85, 0.50, 0.70, 0.70, 0.85, 0.80, 0.70, 0.70]
 # heuristic threshold: all started from 1.00, tuned by 0.05 each time to find better threshold value
-# we use some statistics of validation data for tuning, but not directly as input
 
 x_avg = np.zeros(8)
 y_avg = np.zeros(8)
@@ -37,13 +33,6 @@ class_count = np.zeros(8)
 
 npy_list = os.listdir(sys.argv[1])
 
-with open(valid_filename_path, 'r') as f:
-    fname_list = f.readlines()
-    fname_list = [s.strip('\n') for s in fname_list]
-    
-prediction_dict = {}
-for i in range(len(fname_list)):
-    prediction_dict[i] = []
 
 for npy_name in npy_list:
     if not npy_name.endswith('.npy'):
