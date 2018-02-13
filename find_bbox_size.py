@@ -41,7 +41,6 @@ for npy_name in npy_list:
     data = np.load(os.path.join(sys.argv[1],npy_name))
 
     img_id = int(npy_name.split('.')[0].split('_')[1])
-    img_fname = fname_list[img_id]
     k = int(npy_name.split('.')[0].split('_')[2])
 
     if np.isnan(data).any():
