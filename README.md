@@ -42,6 +42,10 @@ upload **deepQ_25.zip** to the platform. Then use following command:
 ```
 python3 inference.py
 ```
+5) Output txt format: 
+
+after running denseNet_localization.py, you would get a txt file. The format is shown below:
+<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/bounding_box_output_format.png" width="320"><br>
 
 
 ### Note :
