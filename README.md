@@ -36,7 +36,7 @@ python3 train.py [path of preprocessed output (folder)]
 python3 denseNet_localization.py [path to test.txt] [path of images folder]
 ```
 
-4) DeepQ testing:
+4) HTC DeepQ platform testing:
 
 upload **deepQ_25.zip** to the platform. Then use following command:
 ```
