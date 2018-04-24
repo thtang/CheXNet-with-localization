@@ -82,6 +82,7 @@ Effusion, Infiltration, Mass, Nodule, Pneumonia and Pneumothorax)
 Visualization of some images with its ground-truth label (red) and its prediction
 (blue) selected from each disease class.
 
+**Refers to the [report](https://github.com/thtang/CheXNet-with-localization/blob/master/report.pdf) for more experiment results.**
 ## Reference:
 1. *ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases* [[Arxiv]](https://arxiv.org/pdf/1705.02315.pdf)
 2. *LEARNING TO DIAGNOSE FROM SCRATCH BY EXPLOITING DEPENDENCIES AMONG LABELS* [[Arxiv]](https://arxiv.org/pdf/1710.10501.pdf)
