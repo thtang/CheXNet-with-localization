@@ -35,14 +35,7 @@ python3 train.py [path of preprocessed output (folder)]
 ```
 python3 denseNet_localization.py [path to test.txt] [path of images folder]
 ```
-
-4) HTC DeepQ platform testing:
-
-upload **deepQ_25.zip** to the platform. Then use following command:
-```
-python3 inference.py
-```
-5) Output txt format: <br>
+4) Output txt format: <br>
 After running denseNet_localization.py, you would get a txt file. The format is shown below:<br>
 ```
 [image_path] [number_of_detection]
@@ -54,6 +47,15 @@ After running denseNet_localization.py, you would get a txt file. The format is 
 [disease] [x] [y] [width] [height]
 ...
 ```
+------
+For DeepQ platform testing:
+
+upload **deepQ_25.zip** to the platform. Then use following command:
+```
+python3 inference.py
+```
+------
+
 
 ### Note :
 In our .py script, I used the following script to assign the task running on GPU 0.<br>
