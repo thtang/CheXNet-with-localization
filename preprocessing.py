@@ -45,7 +45,7 @@ for i in range(len(train_list)):
 
 
 train_X = np.array(train_X)
-np.save(data_path, train_X)
+np.save(os.path.join(data_path,"train_X_small.npy"), train_X)
 
 # transform validation images
 print("validation example:",len(valid_list))
@@ -64,7 +64,7 @@ for i in range(len(valid_list)):
         print(i)
 
 valid_X = np.array(valid_X)
-np.save(data_path, valid_X)
+np.save(os.path.join(data_path,"valid_X_small.npy"), valid_X)
 
 
 # process label
