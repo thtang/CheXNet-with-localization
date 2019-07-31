@@ -56,6 +56,7 @@ python3 inference.py
 ```
 ------
 
+5) For **visualization**, please refers to [issue](https://github.com/thtang/CheXNet-with-localization/issues/9). Credit to [Sadam1195](https://github.com/Sadam1195).
 
 ### Note :
 In our .py script, I used the following script to assign the task running on GPU 0.<br>
