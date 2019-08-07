@@ -7,7 +7,7 @@ Team:XD
 ## Weakly supervised localization :
 In this task, we have to plot bounding boxes for each disease finding in a single chest X-ray without goundtruth (X, Y, width, height) in training set. The workflow is shown below:
 ### Workflow :
-![Alt Text](https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png)
+<img src="https://github.com/thtang/CheXNet-with-localization/blob/master/output/process_flow.png">
 1) Predict findings
 2) Use the classifier to plot heatmap (Grad-CAM)
 3) Plot the bounding box base on Grad-CAM
